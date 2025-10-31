@@ -282,27 +282,6 @@ docs/
 5. **Path Tracing**: Identifies and reports complete leakage paths
 6. **Report Generation**: Produces detailed JSON reports with explanations
 
-## Performance
-
-- Analysis time varies based on design complexity (typically 2-10 minutes per design)
-- Batch mode enables efficient processing of multiple designs
-- Context caching reduces redundant LLM calls
-
-## Limitations
-
-- Requires Yosys for Verilog parsing (not included, must be installed separately)
-- Analysis quality depends on LLM capabilities
-- Large designs may require significant processing time
-- Currently supports Verilog (SystemVerilog support limited)
-
-## Contributing
-
-Contributions are welcome! Areas for improvement:
-
-- Additional IFT techniques
-- Support for more HDLs (VHDL, Chisel, etc.)
-- Performance optimizations
-- Enhanced reporting formats
 
 ## Citation
 
