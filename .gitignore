@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+*.env
+
+# Temporary files
+tmp_*.v
+tmp_*.sv
+*.tmp
+
+# Results and outputs
+batch_results/
+analysis_contexts/
+results_*/
+*.log
+
+# Yosys artifacts
+*.dot
+*.json
+parser.out
+parsetab.py
+
+# OS
+.DS_Store
+Thumbs.db
+

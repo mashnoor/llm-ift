@@ -1,0 +1,27 @@
+# IFT-LLM Requirements
+
+# Core dependencies
+langchain-core>=0.1.0
+langchain-openai>=0.0.5
+openai>=1.0.0
+
+# Graph processing
+networkx>=3.0
+
+# Optional: For progress bars and rich output
+tqdm>=4.65.0
+
+# Optional: For configuration management
+python-dotenv>=1.0.0
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+
+# System requirements (install separately):
+# - Yosys (for Verilog parsing and hierarchy extraction)
+#   Installation: https://github.com/YosysHQ/yosys
+#   Ubuntu/Debian: sudo apt install yosys
+#   macOS: brew install yosys
+
