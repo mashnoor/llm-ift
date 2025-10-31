@@ -1,5 +1,9 @@
 # IFT-LLM: LLM-based Hardware Information Flow Tracking
 
+> **📄 Paper**: [LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware](https://ieeexplore.ieee.org/abstract/document/11022949)  
+> *IEEE 43rd VLSI Test Symposium (VTS), 2025*  
+> **Authors**: Nowfel Mashnoor, Mohammad Akyash, Hadi Kamali, Kimia Azar
+
 A framework for detecting information leakage and hardware Trojans in Verilog designs using Large Language Models (LLMs) and Information Flow Tracking (IFT) techniques.
 
 ## Overview
